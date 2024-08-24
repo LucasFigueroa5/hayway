@@ -25,7 +25,7 @@ const Navbar = () => {
       >
         <div className="flex w-full flex-wrap items-center justify-between px-3 gap-8">
           <div className="ms-2">
-            <img src={logo2} alt="" width="100px" />
+            <img src={logo} alt="" width="100px" />
           </div>
           <button
             className="block border-0 bg-transparent px-2 text-black/50 hover:no-underline hover:shadow-none focus:no-underline focus:shadow-none focus:outline-none focus:ring-0 dark:text-neutral-200 lg:hidden"
