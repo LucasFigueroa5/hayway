@@ -1,0 +1,27 @@
+.visionContainer {
+    /* background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);     */
+    color: white;    
+    background-color: #426f42;
+    background-image: linear-gradient(72deg, #426f42 34%, #71a073 85%);
+
+    
+}
+
+.misionContainer {
+    /* background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);    */
+    color: white;
+    background-color: #426f42;
+    background-image: linear-gradient(72deg, #426f42 34%, #71a073 85%);
+
+
+}
+
+.valoresContainer {
+/* background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);            */
+    color: white;
+    background-color: #426f42;
+    background-image: linear-gradient(72deg, #426f42 34%, #71a073 85%);
+    
+
+
+}

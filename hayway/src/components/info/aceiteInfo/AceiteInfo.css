@@ -1,0 +1,14 @@
+.infoCont {
+    display: flex;
+    flex-wrap: wrap;
+    height: 500px;
+}
+.infoLeft {
+    width: 50%;
+    background-color: #f0f0f0;
+}
+.infoRight {
+    width: 50%;
+    background-color: aqua;
+}
+

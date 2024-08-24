@@ -1,0 +1,22 @@
+.navContainer a {
+    color: white !important;
+}
+
+.texto:hover {
+    color: #4f7d50 !important;
+}
+
+.texto:focus && :active {
+    color: #4f7d50 !important;
+}
+
+.textoverde {
+    color: #4f7d50 !important;
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+.bgnav {
+    background-color: #828282 !important;
+    background-image: linear-gradient(119deg, #282828 0%, #828282 100%) !important;
+}

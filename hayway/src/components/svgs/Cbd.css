@@ -1,0 +1,10 @@
+.cbdCont {
+    display: flex;
+    justify-content: center;
+}
+
+.cbdImg:hover {
+    scale: 120%;
+    transition: all 0.5s;
+    cursor: pointer;
+}

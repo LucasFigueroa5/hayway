@@ -1,0 +1,27 @@
+.hojaCont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: all 0.3s ease;
+}
+.hoja {
+    /* fill: red; */
+    width: 100px;
+    filter: drop-shadow(3px 3px 5px rgba(0, 0, 0, 0));
+    transition: all 0.3s ease;
+}
+
+.hojaCont:hover {
+    cursor: pointer;
+    fill: rgb(69, 179, 69);
+    
+    color: rgb(69, 179, 69);
+}
+.hojaCont:hover .hoja{
+    filter: drop-shadow(5px 5px 10px rgba(69, 179, 69, 0.8));
+    scale: 105%;
+}
+
+.automatica {
+    width: 80px !important;
+}

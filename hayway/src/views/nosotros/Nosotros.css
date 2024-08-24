@@ -1,0 +1,6 @@
+.nosotrosContainer {
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+    align-items: center;
+}

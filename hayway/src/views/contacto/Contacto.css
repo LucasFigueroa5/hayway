@@ -1,0 +1,8 @@
+.contactoContainer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 30px;
+    align-items: center;
+    height: 100vh;
+}

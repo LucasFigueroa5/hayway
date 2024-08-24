@@ -1,0 +1,9 @@
+.centroCont {
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+.logocid {
+    scale: 50%;
+}
