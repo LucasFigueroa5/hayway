@@ -41,10 +41,5 @@
   },
   "engines": {
     "node": ">=18.x"
-  },
-  "build": {
-    "env": {
-      "NODE_ENV": "development"
-    }
   }
 }

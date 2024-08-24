@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from '../navbar/Navbar';
 import { Outlet } from 'react-router-dom';
-import BtnWhatsapp from '../btns/btnWhatsapp';
+import BtnWhatsapp from '../btns/BtnWhatsapp';
 import Footer from '../footer/Footer';
 import "./Layout.css"
 
