@@ -1,8 +1,21 @@
 .hojasCont {
    height: 100vh;
    padding-top: 100px;
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+   justify-content: center;
+   align-items: start;
+   gap: 25px;
+   width: 100%;
+}
+
+.hojaItem {
    display: flex;
    justify-content: center;
-   align-items: baseline;
-   gap: 25px;
+   align-items: center;
+   padding: 20px;
+   box-sizing: border-box;
+   /* Ajusta el tamaño de los contenedores */
+   min-height: 150px;
+   min-width: 150px;
 }
