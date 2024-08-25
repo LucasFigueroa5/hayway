@@ -2,11 +2,13 @@
    min-height: 100vh;
    padding-top: 100px;
    display: grid;
-   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
    justify-content: center;
-   align-items: start;
+   align-items: end;
    gap: 25px;
    width: 100%;
+   justify-items: center;
+   align-content: start;
 }
 
 .hojaItem {
