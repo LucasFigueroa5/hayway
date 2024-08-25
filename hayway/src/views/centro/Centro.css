@@ -2,8 +2,13 @@
     padding-top: 100px;
     display: flex;
     justify-content: center;
-    height: 100vh;
+    align-items: center; /* Centra verticalmente la imagen */
+    min-height: 100vh;
 }
+
 .logocid {
+    max-width: 100%;
+    height: auto;
     scale: 50%;
+    object-fit: contain; /* Asegura que la imagen mantenga sus proporciones */
 }
