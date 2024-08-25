@@ -1,5 +1,5 @@
 .hojasCont {
-   height: 100vh;
+   min-height: 100vh;
    padding-top: 100px;
    display: grid;
    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
